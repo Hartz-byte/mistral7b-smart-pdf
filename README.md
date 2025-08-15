@@ -1,1 +1,1 @@
-# langchain-mistral-7b-instruct
+# mistral7b-smart-pdf
