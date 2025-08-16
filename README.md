@@ -1,3 +1,4 @@
+# Mistral-7B RAG Assistant
 ![Mistral-7B](https://img.shields.io/badge/LLM-Mistral--7B-informational)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-purple)
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-yellowgreen)
@@ -6,7 +7,6 @@
 ![CUDA](https://img.shields.io/badge/GPU-Required-important)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
-# Mistral-7B RAG Assistant
 An AI-powered document question-answering, summarization, and named entity recognition (NER) app using a local Mistral-7B-instruct GGUF model with LangChain, deployed via Streamlit for an interactive chat interface.
 
 ---
