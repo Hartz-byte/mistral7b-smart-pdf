@@ -32,9 +32,9 @@ class LocalLLMManager:
                 top_k=40,
                 repeat_penalty=1.1
             )
-            print(f"✅ Model loaded successfully from {self.model_path}")
+            print(f"âœ… Model loaded successfully from {self.model_path}")
         except Exception as e:
-            print(f"❌ Error loading model: {e}")
+            print(f"âŒ Error loading model: {e}")
             raise
     
     def generate_response(self, prompt: str, max_tokens: int = 512) -> str:
